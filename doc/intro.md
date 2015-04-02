@@ -1,3 +1,3 @@
-# Introduction to clj-http-lite-doc-cn
+# 介绍 clj-http-lite-doc-cn
 
-TODO: write [great documentation](http://jacobian.org/writing/what-to-write/)
+clj-http-lite的源代码写的思路还是比较清晰的
